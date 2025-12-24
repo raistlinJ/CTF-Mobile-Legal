@@ -34,4 +34,4 @@ If you have questions about this policy, contact: **jaime.acosta1@gmail.com**
 
 ---
 
-_This page is provided for App Store listing purposes. Replace the contact email before publishing._
+_This page is provided for App Store listing purposes._
